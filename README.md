@@ -18,13 +18,20 @@ $ [sudo] npm install octolist -g
 $ octolist <user> <page>
 ```
 
+### Options
+
 | Option | Usage    | Type   |
 |--------|----------|--------|
 | user   | Required | String |
 | page   | Optional | Number |
 
-- **Help:** use `octolist --help` or `octolist -h` for more details.
-- **Example:** `octolist vitorbritto 1`
+**Help:** use `octolist --help` or `octolist -h` for more details.
+
+### Example
+
+```bash
+$ octolist vitorbritto 1
+```
 
 
 ## Contribute
