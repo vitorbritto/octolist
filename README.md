@@ -1,3 +1,5 @@
+![Octolist Logo](src/octolist.jpg "Octolist")
+
 # Octolist [![NPM version](https://badge.fury.io/js/octolist.svg)](http://badge.fury.io/js/octolist) [![GitHub version](https://badge.fury.io/gh/vitorbritto%2Foctolist.svg)](http://badge.fury.io/gh/vitorbritto%2Foctolist)
 
 Octolist gives you a list of repositories from specific user.
