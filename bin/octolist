@@ -47,10 +47,8 @@ if (isV) {
 }
 
 if (input.length > 0) {
-    if (true) {
-        logger.info('Rendering repository list... please wait.');
-        module.exports = require('../lib');
-    } else {
-        logger.error('Can\'t run Octolist.');
-    }
+    logger.info('Rendering repository list... please wait.');
+    module.exports = require('../lib');
+} else {
+    logger.error('You need to specify a username.');
 }

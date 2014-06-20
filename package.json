@@ -1,6 +1,6 @@
 {
   "name": "octolist",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Octolist gives you a list of repositories from specific user.",
   "main": "index.js",
   "bin": "bin/octolist",
