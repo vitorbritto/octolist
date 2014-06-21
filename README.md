@@ -15,6 +15,8 @@ $ [sudo] npm install octolist -g
 $ octolist <user> <page>
 ```
 
+**Note:** You could also use with `ol` alias.
+
 ### Options
 
 | Option | Usage    | Type   |
