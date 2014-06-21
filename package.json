@@ -1,9 +1,12 @@
 {
   "name": "octolist",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Octolist gives you a list of repositories from specific user.",
   "main": "index.js",
-  "bin": "bin/octolist",
+  "bin": {
+    "octolist": "bin/octolist",
+    "ol": "bin/octolist"
+  },
   "scripts": {
     "test": "gulp test"
   },
