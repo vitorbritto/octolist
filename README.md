@@ -2,6 +2,8 @@
 
 ## Install [![NPM version](https://badge.fury.io/js/octolist.svg)](http://badge.fury.io/js/octolist) [![GitHub version](https://badge.fury.io/gh/vitorbritto%2Foctolist.svg)](http://badge.fury.io/gh/vitorbritto%2Foctolist)
 
+[![NPM](https://nodei.co/npm/octolist.png?downloads=true)](https://nodei.co/npm/octolist/)
+
 First of all, make sure you have [Node.js](http://nodejs.org/) installed.
 
 ```bash
